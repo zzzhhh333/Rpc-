@@ -1,0 +1,6 @@
+23:43:22[ERROR] => first message !
+23:43:22[ERROR] => /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc:main:46
+23:44:41[ERROR] => string ipPort.find error
+23:44:41[INFO] => call Login success:0
+23:59:24[ERROR] => first message !
+23:59:24[ERROR] => /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc:main:46

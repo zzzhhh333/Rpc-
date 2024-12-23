@@ -1,0 +1,16 @@
+0:1:31[ERROR] => first message !
+0:1:31[ERROR] => /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc:main:46
+0:2:27[ERROR] => string ipPort.find error
+0:2:27[INFO] => call Login success:0
+0:4:23[ERROR] => first message !
+0:4:23[ERROR] => /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc:main:46
+0:5:55[ERROR] => first message !
+0:5:55[ERROR] => /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc:main:46
+0:6:37[ERROR] => string ipPort.find error
+0:6:37[INFO] => call Login success:0
+0:9:57[ERROR] => first message !
+0:9:57[ERROR] => /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc:main:46
+0:10:11[ERROR] => string ipPort.find error
+0:10:11[INFO] => call Login success:0
+0:10:36[ERROR] => first message !
+0:10:36[ERROR] => /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc:main:46

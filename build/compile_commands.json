@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/lockqueue.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/lockqueue.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/lockqueue.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/logger.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/logger.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/logger.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/mprpcapplication.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/mprpcchannel.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/mprpcconfig.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/mprpccontroller.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/rpcheader.pb.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/rpcprovider.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/src/zookeeperutil.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o example/callee/CMakeFiles/provider.dir/userservice.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/example/callee/userservice.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o example/callee/CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/example/user.pb.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/example/user.pb.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o example/caller/CMakeFiles/consumer.dir/calluserservice.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/example/caller/calluserservice.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/example/caller/calluserservice.cc"
+},
+{
+  "directory": "/home/zzzhhh/MyLinux/Project/MPRPC/build",
+  "command": "/usr/bin/g++ -I/home/zzzhhh/MyLinux/Project/MPRPC/src/include -I/home/zzzhhh/MyLinux/Project/MPRPC/example -g -o example/caller/CMakeFiles/consumer.dir/__/user.pb.cc.o -c /home/zzzhhh/MyLinux/Project/MPRPC/example/user.pb.cc",
+  "file": "/home/zzzhhh/MyLinux/Project/MPRPC/example/user.pb.cc"
+}
+]

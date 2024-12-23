@@ -1,0 +1,27 @@
+# ninja log v5
+4	893	1734534000352432826	example/callee/CMakeFiles/provider.dir/__/user.pb.cc.o	3f4e215a30695855
+15	4444	1734883791311025024	src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o	aae4aaef3d8b0338
+10	1803	1734882150531029724	example/caller/CMakeFiles/consumer.dir/calluserservice.cc.o	92fd55665d5c2ed8
+10	3254	1734675720986442313	src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o	f544c87d1c6c5f0d
+6	1323	1734878175021921655	example/callee/CMakeFiles/provider.dir/Test.cc.o	19fac18d1d8e98d7
+13	1995	1734882150726030460	example/caller/CMakeFiles/consumer.dir/__/user.pb.cc.o	6444165fa1c799fb
+2	385	1734589357022953375	src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o	aafe3b5120e462f0
+5	42	1734790240219872489	src/CMakeFiles/mprpc.dir/lockqueue.cc.o	25fb2609ee9ed7c9
+5	1822	1734784411979244979	src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o	ac96ecdc9fb5f058
+4970	5830	1734883792695030323	../bin/consumer	afef627d43d183e6
+5	1296	1734878302847275292	src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o	2f30d3fe195cc696
+8	2064	1734882150795030720	example/callee/CMakeFiles/provider.dir/userservice.cc.o	fdf69fc3f404a394
+7	776	1734877183327448433	src/CMakeFiles/mprpc.dir/logger.cc.o	7b0a31fb6032cf3
+5	729	1734784468697530339	src/CMakeFiles/mprpc.dir/mprpccontroller.cc.o	82eb2be3cbe01461
+4964	6417	1734883793279032560	../bin/provider	8d8809ad5b8059a1
+4444	4963	1734883791817026962	../lib/libmprpc.a	394af7e252bd09aa
+12	6524	1734883158068739042	src/CMakeFiles/mprpc.dir/rpcprovider.cc.o	b06f208b1562be1b
+13	1895	1734944966402974206	src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o	2f30d3fe195cc696
+8	1983	1734944966492969905	src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o	aae4aaef3d8b0338
+15	2376	1734944966881951319	example/callee/CMakeFiles/provider.dir/userservice.cc.o	fdf69fc3f404a394
+11	2900	1734944967405786166	src/CMakeFiles/mprpc.dir/rpcprovider.cc.o	b06f208b1562be1b
+2901	3192	1734944967694672284	../lib/libmprpc.a	394af7e252bd09aa
+3195	3609	1734944968116507267	../bin/consumer	afef627d43d183e6
+3192	3894	1734944968400398496	../bin/provider	8d8809ad5b8059a1
+10	1560	1734945349059918638	example/caller/CMakeFiles/consumer.dir/calluserservice.cc.o	92fd55665d5c2ed8
+1561	1922	1734945349422907052	../bin/consumer	afef627d43d183e6
